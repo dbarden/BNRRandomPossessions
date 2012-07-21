@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'BNRRandomPossessions' target in the 'BNRRandomPossessions' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
